@@ -1,0 +1,23 @@
+{
+  "name": "the-super-tiny-compiler",
+  "version": "1.0.0",
+  "description": "通过这个及其简单的 compiler 来了解 compiler 的工作过程。",
+  "main": "code-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wyc",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eagowang/the-super-tiny-compiler.git"
+  },
+  "keywords": [
+    "tiny",
+    "compiler"
+  ],
+  "bugs": {
+    "url": "https://github.com/eagowang/the-super-tiny-compiler/issues"
+  },
+  "homepage": "https://github.com/eagowang/the-super-tiny-compiler#readme"
+}
